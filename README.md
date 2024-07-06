@@ -1,5 +1,3 @@
-# Colin Blome's GitHub Profile
-
 ## About Me
 
 Hi, I'm Colin Blome, a passionate web developer with a strong interest in creating user-friendly websites and tackling technical challenges. My journey into web development was sparked by my work in customer support for an online shop and has grown ever since. I am currently expanding my skills through a web development course at DCI.
@@ -15,47 +13,40 @@ Hi, I'm Colin Blome, a passionate web developer with a strong interest in creati
 
 ## Experience
 
+- **Various Jobs** (2010 - 2015)
+  
+- **Family Business Blome** (2015 - 2021)
+  - Various roles and responsibilities within our company.
+  - 
 - **Loitz KG, Austria** (2021 - 2023)
   - Customer support for the online shop
   - Technical assistance and problem-solving
   - Sparked interest in web development
+ 
+  
+- **DCI-WebDev Corse** (2024 - today)
+  - Full-stack web evelpment
 
-- **Family Business Blome** (2015 - 2021)
-  - Various roles and responsibilities within the company
 
-- **Various Jobs** (2010 - 2015)
 
-## Education
 
-- **Web Development Course, DCI** (2024 - Present)
-- **University of Applied Sciences Bielefeld** (2007 - 2010)
-  - B.A. Social Work
-- **Vocational Schools Thuine** (2005 - 2007)
-  - Advanced Technical College Certificate (Health and Social Services)
-- **Vocational Schools Bersenbrück** (2003 - 2004)
-  - Technical Assistant for Computer Science
-- **HRS Berge** (1999 - 2003)
-  - Secondary School Certificate
-- **Integrated Comprehensive School Fürstenau** (1996 - 1999)
-- **Primary School Fürstenau** (1992 - 1996)
 
 ## Projects
 
-1. **Bonsaiworld:** Small web project during the DCI orientation course.
-2. **Layout Examples:** Various layouts created during the DCI course.
-3. **Marketing Campaign:** Example campaign for Bonsaiworld.
-4. **Family Business Blome:** Web project for the family business.
-5. **Coffee Shop:** Layout from the course.
-6. **Donut Shop:** Layout from the course.
+1. **Bonsaiworld:** [Bonsaiworld.netlify.app/](https://bonsaiworld.netlify.app/)
+2. **Portfolio:** [https://colinblome.dev/](https://colinblome.dev/).
+3. **Marketing Campaign example:** [Bonsaiworld](https://www.canva.com/design/DAGBc48w39w/bc-CJ_qwSN3KxtlTtbQlmg/view?utm_content=DAGBc48w39w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ## Hobbies and Interests
 
 - RC Model Building
 - Nature
+- Bonsai
 - All things IT & Technology
 
 ## Language Skills
-
+- German - nativ
 - English - C1
 
 ## Contact
