@@ -12,43 +12,11 @@ Hi, I'm Colin Blome, a passionate web developer with a strong interest in creati
 - **Frameworks & Libraries:** Astro, Tailwind, SCSS
 - **Tools:** GitHub, Windows, Linux
 
-## Experience
-
-- **Various Jobs** (2010 - 2015)
-  
-- **Family Business Blome** (2015 - 2021)
-  - Various roles and responsibilities within our company.
-  - 
-- **Loitz KG, Austria** (2021 - 2023)
-  - Customer support for the online shop
-  - Technical assistance and problem-solving
-  - Sparked interest in web development
- 
-  
-- **DCI-WebDev Corse** (2024 - today)
-  - Full-stack web evelpment
-
-
-
-
-
 ## Projects
 
 1. **Portfolio:** [ColinBlome.dev](https://colinblome.dev/) 
 2. **Bonsaiworld:** [Bonsaiworld.netlify.app/](https://bonsaiworld.netlify.app/)
 3. **Marketing Campaign example:** [Bonsaiworld](https://www.canva.com/design/DAGBc48w39w/bc-CJ_qwSN3KxtlTtbQlmg/view?utm_content=DAGBc48w39w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-
-## Hobbies and Interests
-
-- RC Model Building
-- Nature
-- Bonsai
-- All things IT & Technology
-
-## Language Skills
-- German - nativ
-- English - C1
 
 ## Contact
 
