@@ -9,7 +9,7 @@ Hi, I'm Colin Blome, a passionate web developer with a strong interest in creati
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Astro, Tailwind, SCSS
+- **Frameworks & Libraries:** Astro, React, Tailwind, SCSS
 - **Tools:** GitHub, Windows, Linux
 
 ## Projects
