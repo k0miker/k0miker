@@ -18,9 +18,6 @@ Hi, I'm Colin Blome, a passionate web developer with a strong interest in creati
 - **Portfolio:** [ColinBlome.dev](https://colinblome.dev/)
 - **Zombi-island:** [zombi-island](https://zombi-island.netlify.app/)
 - **Dataglobe** [Dataglobe](https://dataglobe.netlify.app/)
-- **Bonsaiworld:** [Bonsaiworld.netlify.app/](https://bonsaiworld.netlify.app/)
-- **Marketing Campaign example:** [Bonsaiworld](https://www.canva.com/design/DAGBc48w39w/bc-CJ_qwSN3KxtlTtbQlmg/view?utm_content=DAGBc48w39w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- **BrokeChain**: [BrokeChain](https://broke.dev-space.vip)
 
 ## Contact
 
