@@ -3,8 +3,8 @@
 Hi, I'm Colin Blome, a passionate web developer with a strong interest in creating user-friendly websites and tackling technical challenges. My journey into web development was sparked while working for [Helmexpress](helmexpress.com) and has grown ever since. I am currently expanding my skills through a web development course at DCI.
 
 - **Location:** Fürstenau, Germany
-- **Email:** <info@colinblome.dev>
-- **Portfolio:** [ColinBlome.dev](https://colinblome.dev/)
+- **Email:** <info@cb-webdevelopment.de>
+- **Portfolio:** [cb-webdevelopment.de](https://www.cb-webdevelopment.de/)
 
 ## Skills
 
@@ -15,10 +15,10 @@ Hi, I'm Colin Blome, a passionate web developer with a strong interest in creati
 
 ## Projects
 
-- **Portfolio:** [ColinBlome.dev](https://colinblome.dev/)
+- **Portfolio:** [cb-webdevelopment.de](https://www.cb-webdevelopment.de/)
 - **Zombi-island:** [zombi-island](https://zombi-island.netlify.app/)
 - **Dataglobe** [Dataglobe](https://dataglobe.netlify.app/)
 
 ## Contact
 
-Feel free to reach out to me via email at [info@colinblome.dev](mailto:info@colinblome.dev).
+Feel free to reach out to me via email at [info@cb-webdevelopment.de](mailto:info@cb-webdevelopment.de).
